@@ -1,3 +1,4 @@
+# blog.richja.cz [![Build Status](https://travis-ci.org/richja/blog.svg?branch=master)](https://travis-ci.org/richja/blog)
 Personal blog for articles from various categories and fields. Mostly tech and travel.
 [blog.richja.cz](https://blog.richja.cz) // based on [Jasper2 Ghost-like Theme for Jekyll](https://jekyller.github.io/jasper2)
 
