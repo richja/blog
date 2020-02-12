@@ -73,7 +73,7 @@ safe: False
 lsi: False
 username: richja
 repo: blog
-branch: gh-pages
+branch: master
 relative_source: ../blog/
 destination: ../
 production_url:  https://blog.richja.cz
