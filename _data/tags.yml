@@ -1,16 +1,16 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
+postman:
+  name: postman-Mastery
+  description: Use Postman to its maximum
   cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
+raro:
+  name: raro
+  description: Follow my progress on building Raro. A service to randomly serve you anything you want
   cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
+timeboxie:
+  name: timeboxie
+  description: Follow my progress on building Timeboxie which offers first time vault ever brought to Web
   cover: assets/images/fables.jpg
 getting-started:
   name: getting-started
-  description: False
+  description: cdcc
   cover: False

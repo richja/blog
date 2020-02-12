@@ -8,16 +8,16 @@ ghost:
   facebook: ghost
   twitter: tryghost
   cover: False
-hannah:
-  username: hannah
-  name: Hannah Wolfe
-  location: London, UK
-  url_full: http://hannah.wf/
-  url: hannah.wf
-  bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
-  picture: assets/images/hannah.jpg
+richja:
+  username: richja
+  name: Jan Richter
+  location: Dublin, Ireland
+  url_full: https://richja.cz
+  url: richja.cz
+  bio: Web developer, QA and maker
+  picture: assets/images/richja.png
   facebook: False
-  twitter: erisds
+  twitter: irql
   cover: assets/images/hannah-cover.jpg
 john:
   username: john
